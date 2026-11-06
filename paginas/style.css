@@ -1,0 +1,34 @@
+h1 {
+    color: #ffd76a;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+p {
+    color: #ffd76a;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    max-width: 1090px;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url(./images/fundo-lua.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #ffd76a;
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+}
