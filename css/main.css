@@ -130,7 +130,9 @@ body.lightbox-open {
 .gallery-grid {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     max-width: 1500px;
+    margin: 0 auto;
 }
 
 .title-local {
